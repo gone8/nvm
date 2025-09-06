@@ -1,0 +1,3 @@
+cd Desktop/prayer-bot
+npm init -y
+npm install whatsapp-web.js node-cron qrcode-terminal
